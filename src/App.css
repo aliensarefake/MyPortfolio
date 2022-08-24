@@ -1,0 +1,17 @@
+h1{
+    color: #121212;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    margin: 20px;
+    text-align: center;
+    font-size: 75px;
+ }
+  
+  p{
+    text-align: center;
+    color: #121212;
+    padding: 5px;
+    margin: 10px;
+    font-family: 'Silkscreen', cursive;
+    font-weight: 700;
+  }

@@ -1,0 +1,20 @@
+nav.navi{
+    margin-bottom: 235px;
+    font-family: Courier New;
+    position: sticky;
+  }
+
+  svg{
+    height: 25px;
+    width: 24px;
+  }
+
+  a.nav-link{
+    color:#6b7280;
+    margin:5px;
+      font-weight: bolder;
+  }
+
+  a.nav-link:hover{
+    color:#00468b;
+  }

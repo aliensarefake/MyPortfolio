@@ -1,0 +1,20 @@
+span.skill{
+    border:5px;
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: rgb(225, 239, 254);
+    margin: 5px;
+    padding: 8px;
+    
+    color: rgb(30, 66, 159);
+    font-family: Inter, sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    transition: margin 500ms, padding 500ms ease-out;
+  }
+
+
+  span.skill:hover{
+    margin: 10px;
+    padding: 13px;
+  }

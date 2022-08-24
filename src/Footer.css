@@ -1,0 +1,19 @@
+footer{
+    font-family: Courier New;
+    font-weight: bolder;
+    font-size: 13px;
+    color:#6b7280;
+    bottom: 0;
+    justify-content: center;
+  }
+
+  div>a>svg{
+    color:#6b7280;
+    margin-left: 15px;
+    height: 20px;
+    width: 20px;
+  }
+
+  svg:hover{
+    color:#00468b;
+  }
